@@ -8,6 +8,10 @@ This project analyzes one year of pizza sales data for a fictional pizza chain a
 - `Pizza_Dashboard_1.png` – overview page screenshot
 - `Pizza_Dashboard_2.png` – trends page screenshot
 
+![Pizza Sales Dashboard Overview](Pizza_Dashboard_1.png)
+
+![Pizza Sales Dashboard Trends](Pizza_Dashboard_2.png)
+
 ## Key Insights
 
 - Total revenue, total orders, total pizzas sold, and average order value
